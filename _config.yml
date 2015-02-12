@@ -2,7 +2,7 @@
 
 title:            Developer's Diary.
 locale:           en_US
-url:              http://localhost:4000
+url:              
 
 
 # Jekyll configuration
@@ -34,7 +34,7 @@ owner:
   twitter: minhajkk
   facebook: #username
   google:
-    plus: #username
+    plus: MinhajMehmood
     analytics: 
     verify: 
     ad-client: 
@@ -50,6 +50,10 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

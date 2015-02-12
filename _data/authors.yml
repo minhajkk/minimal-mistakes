@@ -1,20 +1,31 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
-  twitter: extravagantman
+minhaj:
+  name: Minhaj Mehmood
+  avatar: avatar.jpg
+  bio: "Java/Grails Developer"
+  email: minhaj.kk+blog@gmail.com
+  disqus-shortname: ghpages
+  twitter: minhajkk
+  facebook: #username
   google:
-    plus: BillyRick
-
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
-  google:
-    plus: CorneliusFiddlebone
+    plus: MinhajMehmood
+    analytics: 
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
+  github: minhajkk
+  stackoverflow: #http://stackoverflow.com/users/123456/username
+  linkedin: minhajkk
+  instagram: #username
+  lastfm: #username
+  tumblr: minhaj
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
