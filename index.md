@@ -1,9 +1,9 @@
 ---
 layout: home
-excerpt: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+description: Minhaj is a developer, experienced in designing and developing Service Oriented solutions, love to learn new things. Other than coding I'm passionate about e-marketing, payment gateways, scrum framework & chess.
+tags: [grails, groovy, web-services, java]
 image:
-  feature: texture-feature-01.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: 20130607_140718_N.jpg
+  credit: Minhaj
+  creditlink: travel/oman-visit-during-long-weenkend-2013/
 ---

@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Developer's Diary.
 locale:           en_US
 url:              http://localhost:4000
 
@@ -26,12 +26,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
-  disqus-shortname: 
-  twitter: #username
+  name: Minhaj Mehmood
+  avatar: avatar.jpg
+  bio: "Java/Grails Developer"
+  email: minhaj.kk@gmail.com
+  disqus-shortname: ghpages
+  twitter: minhajkk
   facebook: #username
   google:
     plus: #username
@@ -40,12 +40,12 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: minhajkk
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: minhajkk
   instagram: #username
   lastfm: #username
-  tumblr: #username
+  tumblr: minhaj
   pinterest: #username
   foursquare: #username
   steam: #username
