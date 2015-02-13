@@ -2,7 +2,8 @@
 
 title:            Developer's Diary.
 locale:           en_US
-url:              http://minhaj.io
+#url:              http://minhaj.io
+url:
 
 
 # Jekyll configuration
@@ -28,8 +29,8 @@ kramdown:
 owner:
   name: Minhaj Mehmood
   avatar: avatar.jpg
-  bio: "Java/Grails Developer"
-  email: minhaj.kk@gmail.com
+  bio: "Backend Grails Developer"
+  email: minhaj.kk+blog@gmail.com
   disqus-shortname: ghpages
   twitter: minhajkk
   facebook: #username
