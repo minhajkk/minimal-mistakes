@@ -62,6 +62,12 @@ It was absolutely beautiful to see talented ladies and gentlemen getting down to
 </figure>
 <br/><br/>
 
+## Press Release
+
+- [Cardiac emergency services app takes first prize at Dubai’s Hacka{MENA}](http://www.wamda.com/2015/04/heart-monitoring-app-first-prize-hackamena) - Wamda.com
+- [Dubai Internet City brings 'Hackamena' the Region's First Social Impact Hackathon to Dubai](https://www.zawya.com/story/Dubai_Internet_City_brings_Hackamena_the_Regions_First_Social_Impact_Hackathon_to_Dubai-ZAWYA20150406131043/) - Zawya.com
+- [مدينة دبي للإنترنت تقدم “هاكامينا” للمرة الأولى في منطقة الشرق الأوسط](http://www.pal-forex.com/main/arab-world/15107.html) - pal-forex.com
+
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
