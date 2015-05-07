@@ -47,7 +47,7 @@ I had a chance to join many other teams with great ideas, but the HeartPing idea
 It was absolutely beautiful to see talented ladies and gentlemen getting down to business and creating some of the most exceptional tools with a great social impact potential. After thousands of lines of codes and poisoning our minds with caffeine as we munched on the most delicious pizza, the verdict was out. **HeartPing team of four won the hackathon hands down and the grand prize was ours for the taking-free trip to the  2015 Milano Expo-perhaps even a chance to rush to the San Siro for some real Italian soccer to cheer on the pride of the City; AC Milan.**
 
 <figure>
-    <a href="/images/heartping/team.jpg"><img src="/images/heartping/team.jpg"></a>
+    <a href="/images/heartping/team.JPG"><img src="/images/heartping/team.JPG"></a>
     <!-- <a href="/images/heartping/hacka-mena-minhaj.jpg"><img src="/images/heartping/hacka-mena-minhaj.jpg"></a> -->
     <figcaption>Winning Team</figcaption>
 </figure>
