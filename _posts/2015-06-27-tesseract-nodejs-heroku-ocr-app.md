@@ -34,7 +34,7 @@ Mulkiya-OCR is an experiment app, I've used <a href="https://code.google.com/p/t
 
 <figure>
     <a href="/images/nodejs-ocr-app.gif"><img src="/images/nodejs-ocr-app.gif"></a>
-    <figcaption>Application demo</figcaption>
+    <figcaption>https://mulkiya-ocr.herokuapp.com/</figcaption>
 </figure>
 
 
@@ -76,7 +76,7 @@ Deployment was the main challenge for this application since I had to install `t
 
 
 ## Some useful links
-- <a href="https://devcenter.heroku.com/articles/using-multiple-buildpacks-for-an-app">Using Multiple Buildpacks for an App</a>
+- <a href="https://dDeevcenter.heroku.com/articles/using-multiple-buildpacks-for-an-app">Using Multiple Buildpacks for an App</a>
 - <a href="http://challengepost.com/software/heroku-buildpack-tesseract">heroku-buildpack-tesseract</a>
 - <a href="http://stackoverflow.com/questions/20034150/implementing-ocr-for-heroku-rails-app">Implementing OCR for Heroku Rails app</a>
 - <a href="https://github.com/ddollar/heroku-buildpack-multi">Use multiple buildpacks on your app</a>
