@@ -19,7 +19,7 @@ date: 2015-06-27T17:41:35+04:00
 </div>
 </section><!-- /#table-of-contents -->
 
-Mulkiya-OCR is an experiment app, I've used <a href="https://code.google.com/p/tesseract-ocr/wiki/ReadMe" target="_blank">Tesseract</a> Open Source OCR engine to read text from images(for example mulkiya image) so that data input process can be automated and accurate as much as possible.
+Mulkiya-OCR is an experiment app, I've used <a href="https://code.google.com/p/tesseract-ocr/wiki/ReadMe" target="_blank">Tesseract</a> Open Source OCR engine to read text from images(for example mulkiya image) so that data input process can be automated and accurate as much as possible. The code is open source at <a href="https://github.com/minhajkk/mulkiya-ocr" target="_blank">github</a>.
 
 > For those who are not familiar with word "Mulkiya". It's an arabic word which means vehicle registration card or vehicle ownership certificate.
 
@@ -31,10 +31,9 @@ Mulkiya-OCR is an experiment app, I've used <a href="https://code.google.com/p/t
 - `npm start` to run the application.
 
 ## Demo
-
 <figure>
     <a href="/images/nodejs-ocr-app.gif"><img src="/images/nodejs-ocr-app.gif"></a>
-    <figcaption>https://mulkiya-ocr.herokuapp.com/</figcaption>
+    <figcaption><a href="https://mulkiya-ocr.herokuapp.com/" target="_blank">https://mulkiya-ocr.herokuapp.com</a></figcaption>
 </figure>
 
 
