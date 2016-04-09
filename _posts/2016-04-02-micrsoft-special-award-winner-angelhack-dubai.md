@@ -3,7 +3,7 @@ layout: post
 title: "Ionic framework and Microsoft Emotion API "
 modified:
 categories: 
-excerpt:
+excerpt: Selfielyzer is an ionic framework based hybird app which uses..
 tags: [hackathon, dubai-internet-city, selfielyzer, microsoft, ionic, project-oxford]
 image:
   feature: /Micrsoft-Special-Award-Winner/landing.png
